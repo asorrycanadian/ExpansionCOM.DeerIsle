@@ -1,0 +1,3338 @@
+---------------------------------------------
+Log D:\Steam\steamapps\common\DayZ\Missions\ExpansionCOM.DeerIsle\Profiles\crash_2020-06-30_15-51-19.log started at 30.06. 15:51:37
+
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:51:37
+NULL pointer to instance
+Class:      'LoadingScreen'
+Function: 'Show'
+Stack trace:
+deerisle/scripts/3_Game/Що?з..c:38
+scripts/3_Game/dayzgame.c:2477
+scripts/3_Game/dayzgame.c:1164
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:51:55
+NULL pointer to instance
+Class:      'ExpansionAirdropSettings'
+Function: 'DefaultRegular'
+Stack trace:
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:331
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:185
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettingbase.c:20
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:205
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:132
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:236
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:368
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:731
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\party\expansionpartymodule.c:55
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:86
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:60
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:512
+JM/CF/Scripts/5_Mission/communityframework\mission\missionbase.c:12
+$CurrentDir:.\Missions\ExpansionCOM.DeerIsle\init.c:8
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:51:55
+NULL pointer to instance
+Class:      'ExpansionAirdropSettings'
+Function: 'DefaultMedical'
+Stack trace:
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:414
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:186
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettingbase.c:20
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:205
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:132
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:236
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:368
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:731
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\party\expansionpartymodule.c:55
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:86
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:60
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:512
+JM/CF/Scripts/5_Mission/communityframework\mission\missionbase.c:12
+$CurrentDir:.\Missions\ExpansionCOM.DeerIsle\init.c:8
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:51:55
+NULL pointer to instance
+Class:      'ExpansionAirdropSettings'
+Function: 'DefaultBaseBuilding'
+Stack trace:
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:461
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:187
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettingbase.c:20
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:205
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:132
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:236
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:368
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:731
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\party\expansionpartymodule.c:55
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:86
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:60
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:512
+JM/CF/Scripts/5_Mission/communityframework\mission\missionbase.c:12
+$CurrentDir:.\Missions\ExpansionCOM.DeerIsle\init.c:8
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:51:55
+NULL pointer to instance
+Class:      'ExpansionAirdropSettings'
+Function: 'DefaultMilitary'
+Stack trace:
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:661
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:188
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettingbase.c:20
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:205
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:132
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:236
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:368
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:731
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\party\expansionpartymodule.c:55
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:86
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:60
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:512
+JM/CF/Scripts/5_Mission/communityframework\mission\missionbase.c:12
+$CurrentDir:.\Missions\ExpansionCOM.DeerIsle\init.c:8
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:51:55
+NULL pointer to instance
+Class:      'CommunityOfflineClient'
+Function: 'CommunityOfflineClient'
+Stack trace:
+$CurrentDir:missions//ExpansionCOM.DeerIsle//core//CommunityOfflineClient.c:11
+$CurrentDir:.\Missions\ExpansionCOM.DeerIsle\init.c:8
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:51:55
+NULL pointer to instance
+Class:      'ExpansionChatHandler'
+Function: 'UpdateScroller'
+Stack trace:
+DayZExpansion/Scripts/5_Mission/dayzexpansion\gui\chat\expansionchathandler.c:94
+DayZExpansion/Scripts/5_Mission/dayzexpansion\gui\chat\expansionchat.c:245
+DayZExpansion/Scripts/5_Mission/dayzexpansion\gui\chat\expansionchat.c:89
+scripts/5_Mission/mission\missiongameplay.c:105
+JM/CF/Scripts/5_Mission/communityframework\mission\missiongameplay.c:16
+JM/COT/Scripts/5_Mission/communityonlinetools\missiongameplay.c:44
+DayZExpansion/Scripts/5_Mission/dayzexpansion\mission\missiongameplay.c:312
+$CurrentDir:missions//ExpansionCOM.DeerIsle//core//CommunityOfflineClient.c:207
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:25
+NULL pointer to instance
+Class:      'LoadingScreen'
+Function: 'Show'
+Stack trace:
+deerisle/scripts/3_Game/Що?з..c:38
+scripts/3_Game/dayzgame.c:357
+scripts/3_Game/dayzgame.c:1520
+scripts/3_Game/dayzgame.c:1185
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderFrancis'
+Entity id:1548050
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderLinda'
+Entity id:1548061
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderCyril'
+Entity id:1548072
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderGuo'
+Entity id:1548083
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderKaito'
+Entity id:1548094
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderBoris'
+Entity id:1548105
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderKeiko'
+Entity id:1548116
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderGabi'
+Entity id:1548127
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderElias'
+Entity id:1548138
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderHassan'
+Entity id:1548149
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderDenis'
+Entity id:1548160
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderIrena'
+Entity id:1548171
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderJose'
+Entity id:1548182
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderFrancis'
+Entity id:1548193
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderKaito'
+Entity id:1548204
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderCyril'
+Entity id:1548215
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderGuo'
+Entity id:1548226
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderBoris'
+Entity id:1548235
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderLinda'
+Entity id:1548244
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderKeiko'
+Entity id:1548253
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderHelga'
+Entity id:1548262
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderFrida'
+Entity id:1548271
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderHassan'
+Entity id:1548280
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderDenis'
+Entity id:1548289
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderLewis'
+Entity id:1548298
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:52:26
+NULL pointer to instance
+Class:      'ExpansionTraderJudy'
+Entity id:1548307
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Broom'
+Entity id:1549010
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Broom'
+Entity id:1549558
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Broom'
+Entity id:1549976
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Broom'
+Entity id:1550344
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Broom'
+Entity id:1551395
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Broom'
+Entity id:1551590
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Broom'
+Entity id:1552425
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Broom'
+Entity id:1553510
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Broom'
+Entity id:1560769
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Broom'
+Entity id:1561526
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Broom'
+Entity id:1562411
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Broom'
+Entity id:1565099
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548304
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548305
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548306
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548299
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'AviatorGlasses'
+Entity id:1547688
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'MilitaryBeret_UN'
+Entity id:1547689
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'M65Jacket_Black'
+Entity id:1547690
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Hammer'
+Entity id:1547697
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionStairKit'
+Entity id:1547699
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Rope'
+Entity id:1548318
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionStairKit'
+Entity id:1547700
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Rope'
+Entity id:1548319
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionStairKit'
+Entity id:1547701
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Rope'
+Entity id:1548320
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionFloorKit'
+Entity id:1547702
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Rope'
+Entity id:1548321
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionFloorKit'
+Entity id:1547703
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Rope'
+Entity id:1548322
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1547691
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HunterPants_Autumn'
+Entity id:1547692
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'MilitaryBoots_Black'
+Entity id:1547693
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionParachuteBag'
+Entity id:1547694
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionParachute'
+Entity id:1547695
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionFloorKit'
+Entity id:1547704
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Rope'
+Entity id:1548323
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionWallKit'
+Entity id:1547705
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Rope'
+Entity id:1548324
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionWallKit'
+Entity id:1547706
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Rope'
+Entity id:1548325
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionWallKit'
+Entity id:1547707
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Rope'
+Entity id:1548326
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionRampKit'
+Entity id:1547708
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Rope'
+Entity id:1548327
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionRampKit'
+Entity id:1547709
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Rope'
+Entity id:1548328
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionRampKit'
+Entity id:1547710
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Rope'
+Entity id:1548329
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Shovel'
+Entity id:1547696
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Crowbar'
+Entity id:1547698
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1547683
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'ExpansionGenerator'
+Entity id:1547736
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548210
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548211
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548212
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548213
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548214
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548205
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548241
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548242
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548243
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548236
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548268
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548269
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548270
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548263
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548277
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548278
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548279
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548272
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548286
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548287
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548288
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548281
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548199
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548200
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548201
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548202
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548203
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548194
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548295
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548296
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548297
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548290
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548221
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548222
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548223
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548224
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548225
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548216
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548232
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548233
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548234
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548227
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548250
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548251
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548252
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548245
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548259
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548260
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548261
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548254
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548313
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548314
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548315
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548308
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548144
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548145
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548146
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548147
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548148
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548139
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548155
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548156
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548157
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548158
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548159
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548150
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548056
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548057
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548058
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548059
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548060
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548051
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548133
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548134
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548135
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548136
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548137
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548128
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548166
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548167
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548168
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548169
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548170
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548161
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Fireplace'
+Entity id:1547979
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'WoodenStick'
+Entity id:1557650
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Firewood'
+Entity id:1557649
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Bark_Oak'
+Entity id:1565641
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BarrelHoles_Red'
+Entity id:1547981
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'WoodenStick'
+Entity id:1557657
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Firewood'
+Entity id:1557656
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Bark_Oak'
+Entity id:1565645
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548067
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548068
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548069
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548070
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548071
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548062
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548078
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548079
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548080
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548081
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548082
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548073
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548089
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548090
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548091
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548092
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548093
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548084
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548100
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548101
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548102
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548103
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548104
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548095
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548111
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548112
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548113
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548114
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548115
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548106
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548122
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548123
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548124
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548125
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548126
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548117
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548177
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548178
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548179
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548180
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548181
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548172
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548188
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548189
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548190
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548191
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548192
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548183
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'BarrelHoles_Red'
+Entity id:1548013
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'WoodenStick'
+Entity id:1557662
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Firewood'
+Entity id:1557661
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 
+
+
+------------------------------------
+DESKTOP-91AA07T, 30.06 2020 15:54:49
+NULL pointer to instance
+Class:      'Bark_Oak'
+Entity id:1565649
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+
+Runtime mode
+CLI params: mission .\Missions\ExpansionCOM.DeerIsle profiles .\Missions\ExpansionCOM.DeerIsle\Profiles nosplash  noPause  noBenchmark  filePatching  doLogs  scriptDebug true mod !Workshop\@DayZ-Expansion;!Workshop\@DayZ-Expansion-Licensed;!Workshop\@CF;!Workshop\@Community-Online-Tools;!Workshop\@DeerIsle; 

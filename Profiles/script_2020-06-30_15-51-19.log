@@ -1,0 +1,2605 @@
+---------------------------------------------
+Log D:\Steam\steamapps\common\DayZ\Missions\ExpansionCOM.DeerIsle\Profiles\script_2020-06-30_15-51-19.log started at 30.06. 15:51:24
+
+SCRIPT       : Registered 300 temporary action enum(s), UAN==300
+SCRIPT       : CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c,494": Missing ';' at the end of line
+SCRIPT    (W): @"DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\book\modules\serverinfo\expansionbooktabserverinfo.c,340": Unsafe down-casting, use 'ExpansionBook.Cast' for safe down-casting
+SCRIPT    (W): @"DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\book\modules\serverinfo\expansionbooktabserverinfo.c,352": Unsafe down-casting, use 'ExpansionBook.Cast' for safe down-casting
+SCRIPT       : Loading Inc: 1
+SCRIPT    (E): NULL pointer to instance
+Class:      'LoadingScreen'
+Function: 'Show'
+Stack trace:
+deerisle/scripts/3_Game/Що?з..c:38
+scripts/3_Game/dayzgame.c:2477
+scripts/3_Game/dayzgame.c:1164
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\esp\jmespmodule.c,132": Unsafe down-casting, use 'JMESPViewType.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//CommunityOfflineClient.c,11": Missing ';' at the end of line
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//ObjectEditor.c,211": Unsafe down-casting, use 'Param3<string,vector,vector>.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//EditorMenu.c,39": Unsafe down-casting, use 'ButtonWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectMenu.c,45": Unsafe down-casting, use 'EditBoxWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectMenu.c,127": Unsafe down-casting, use 'ObjectEditor.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectMenu.c,136": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectMenu.c,142": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectMenu.c,166": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectMenu.c,172": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectMenu.c,200": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectMenu.c,276": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//PositionMenu.c,246": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,29": Unsafe down-casting, use 'ObjectEditor.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,56": Unsafe down-casting, use 'EditBoxWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,57": Unsafe down-casting, use 'EditBoxWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,58": Unsafe down-casting, use 'EditBoxWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,59": Unsafe down-casting, use 'EditBoxWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,60": Unsafe down-casting, use 'EditBoxWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,61": Unsafe down-casting, use 'EditBoxWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,71": Unsafe down-casting, use 'ObjectEditor.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,82": Unsafe down-casting, use 'ObjectEditor.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,86": Unsafe down-casting, use 'ObjectEditor.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,90": Unsafe down-casting, use 'ObjectEditor.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,103": Unsafe down-casting, use 'ObjectEditor.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,212": Unsafe down-casting, use 'EditBoxWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComEditor//gui//ObjectInfoMenu.c,341": Unsafe down-casting, use 'TextWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComKeybinds//COMKeyBinds.c,138": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//modules//ComKeybinds//COMKeyBinds.c,246": Unsafe down-casting, use 'Magazine.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//WidgetStore.c,99": Unsafe down-casting, use 'TextWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//WidgetStore.c,103": Unsafe down-casting, use 'ButtonWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//WidgetStore.c,107": Unsafe down-casting, use 'EditBoxWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//WidgetStore.c,111": Unsafe down-casting, use 'SliderWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//WidgetStore.c,115": Unsafe down-casting, use 'TextListboxWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//WidgetStore.c,137": Unsafe down-casting, use 'TextWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//WidgetStore.c,149": Unsafe down-casting, use 'ButtonWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//WidgetStore.c,161": Unsafe down-casting, use 'EditBoxWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//WidgetStore.c,173": Unsafe down-casting, use 'SliderWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//WidgetStore.c,185": Unsafe down-casting, use 'TextListboxWidget.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//CommunityOfflineClient.c,371": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//CommunityOfflineClient.c,372": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:missions//ExpansionCOM.DeerIsle//core//CommunityOfflineClient.c,373": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : Creating ModuleManager
+SCRIPT       : Inserted Module (HOST): ExpansionGlobalChatModule
+SCRIPT       : Inserted Module (HOST): ExpansionNotificationModule
+SCRIPT       : Inserted Module (HOST): ExpansionSafeZoneModule
+SCRIPT       : Inserted Module (CLIENT): ExpansionLocatorModule
+SCRIPT       : Inserted Module (HOST): ExpansionPartyModule
+SCRIPT       : Inserted Module (HOST): ExpansionMissionModule
+SCRIPT       : Inserted Module (HOST): Expansion3DMarkerModule
+SCRIPT       : Inserted Module (HOST): ExpansionMapMarkerModule
+SCRIPT       : Inserted Module (HOST): ExpansionTerritoryModule
+SCRIPT       : Inserted Module (HOST): ExpansionWorldMappingModule
+SCRIPT       : Inserted Module (HOST): ExpansionInteriorBuildingModule
+SCRIPT       : Inserted Module (HOST): ExpansionSkinModule
+SCRIPT       : Inserted Module (HOST): ExpansionAutorunModule
+SCRIPT       : Inserted Module (HOST): ExpansionMonitorModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTGeneralModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTVehiclesModule
+SCRIPT       : Inserted Module (HOST): COTModule
+SCRIPT       : Inserted Module (HOST): JMPlayerModule
+SCRIPT       : Inserted Module (HOST): JMObjectSpawnerModule
+SCRIPT       : Inserted Module (HOST): JMESPModule
+SCRIPT       : Inserted Module (HOST): JMTeleportModule
+SCRIPT       : Inserted Module (HOST): JMCameraModule
+SCRIPT       : Inserted Module (HOST): JMVehicleSpawnerModule
+SCRIPT       : Inserted Module (HOST): JMItemSetSpawnerModule
+SCRIPT       : Inserted Module (HOST): JMWeatherOldModule
+SCRIPT       : Inserted Module (HOST): JMMapModule
+SCRIPT       : Modules Loaded
+SCRIPT       : 0 -> ExpansionGlobalChatModule
+SCRIPT       : 1 -> ExpansionNotificationModule
+SCRIPT       : 2 -> ExpansionSafeZoneModule
+SCRIPT       : 3 -> ExpansionLocatorModule
+SCRIPT       : 4 -> ExpansionPartyModule
+SCRIPT       : 5 -> ExpansionMissionModule
+SCRIPT       : 6 -> Expansion3DMarkerModule
+SCRIPT       : 7 -> ExpansionMapMarkerModule
+SCRIPT       : 8 -> ExpansionTerritoryModule
+SCRIPT       : 9 -> ExpansionWorldMappingModule
+SCRIPT       : 10 -> ExpansionInteriorBuildingModule
+SCRIPT       : 11 -> ExpansionSkinModule
+SCRIPT       : 12 -> ExpansionAutorunModule
+SCRIPT       : 13 -> ExpansionMonitorModule
+SCRIPT       : 14 -> ExpansionCOTGeneralModule
+SCRIPT       : 15 -> ExpansionCOTVehiclesModule
+SCRIPT       : 16 -> COTModule
+SCRIPT       : 17 -> JMPlayerModule
+SCRIPT       : 18 -> JMObjectSpawnerModule
+SCRIPT       : 19 -> JMESPModule
+SCRIPT       : 20 -> JMTeleportModule
+SCRIPT       : 21 -> JMCameraModule
+SCRIPT       : 22 -> JMVehicleSpawnerModule
+SCRIPT       : 23 -> JMItemSetSpawnerModule
+SCRIPT       : 24 -> JMWeatherOldModule
+SCRIPT       : 25 -> JMMapModule
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionAirdropSettings'
+Function: 'DefaultRegular'
+Stack trace:
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:331
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:185
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettingbase.c:20
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:205
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:132
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:236
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:368
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:731
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\party\expansionpartymodule.c:55
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:86
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:60
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:512
+JM/CF/Scripts/5_Mission/communityframework\mission\missionbase.c:12
+$CurrentDir:.\Missions\ExpansionCOM.DeerIsle\init.c:8
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionAirdropSettings'
+Function: 'DefaultMedical'
+Stack trace:
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:414
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:186
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettingbase.c:20
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:205
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:132
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:236
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:368
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:731
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\party\expansionpartymodule.c:55
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:86
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:60
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:512
+JM/CF/Scripts/5_Mission/communityframework\mission\missionbase.c:12
+$CurrentDir:.\Missions\ExpansionCOM.DeerIsle\init.c:8
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionAirdropSettings'
+Function: 'DefaultBaseBuilding'
+Stack trace:
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:461
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:187
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettingbase.c:20
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:205
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:132
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:236
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:368
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:731
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\party\expansionpartymodule.c:55
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:86
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:60
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:512
+JM/CF/Scripts/5_Mission/communityframework\mission\missionbase.c:12
+$CurrentDir:.\Missions\ExpansionCOM.DeerIsle\init.c:8
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionAirdropSettings'
+Function: 'DefaultMilitary'
+Stack trace:
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:661
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\airdrop\expansionairdropsettings.c:188
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettingbase.c:20
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:205
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:132
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:236
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:368
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:731
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\party\expansionpartymodule.c:55
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:86
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:60
+JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c:512
+JM/CF/Scripts/5_Mission/communityframework\mission\missionbase.c:12
+$CurrentDir:.\Missions\ExpansionCOM.DeerIsle\init.c:8
+SCRIPT       : SyncEvents -> RegisterEvents
+SCRIPT       : COM_ModuleManager::COM_ModuleManager()
+SCRIPT       : COM_ModuleManager::RegisterModules()
+SCRIPT    (E): NULL pointer to instance
+Class:      'CommunityOfflineClient'
+Function: 'CommunityOfflineClient'
+Stack trace:
+$CurrentDir:missions//ExpansionCOM.DeerIsle//core//CommunityOfflineClient.c:11
+$CurrentDir:.\Missions\ExpansionCOM.DeerIsle\init.c:8
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionChatHandler'
+Function: 'UpdateScroller'
+Stack trace:
+DayZExpansion/Scripts/5_Mission/dayzexpansion\gui\chat\expansionchathandler.c:94
+DayZExpansion/Scripts/5_Mission/dayzexpansion\gui\chat\expansionchat.c:245
+DayZExpansion/Scripts/5_Mission/dayzexpansion\gui\chat\expansionchat.c:89
+scripts/5_Mission/mission\missiongameplay.c:105
+JM/CF/Scripts/5_Mission/communityframework\mission\missiongameplay.c:16
+JM/COT/Scripts/5_Mission/communityonlinetools\missiongameplay.c:44
+DayZExpansion/Scripts/5_Mission/dayzexpansion\mission\missiongameplay.c:312
+$CurrentDir:missions//ExpansionCOM.DeerIsle//core//CommunityOfflineClient.c:207
+SCRIPT    (E): Cannot open layout '$CurrentDir:missions\ExpansionCOM.DeerIsle\core\modules\BarrelCrosshair\gui\layouts\BarrelCrosshair.layout'
+SCRIPT    (E): Cannot load layout '$CurrentDir:missions\ExpansionCOM.DeerIsle\core\modules\BarrelCrosshair\gui\layouts\BarrelCrosshair.layout'
+SCRIPT       : childCount:34
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkProne_noHS_gravelSmall_ext_Char_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkProneLong_noHS_gravelSmall_ext_Char_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "dirt_ext_drop_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "asphalt_ext_drop_Soundset".
+SCRIPT       : COM_ModuleManager::OnInit()
+SCRIPT       : COM_ModuleManager::OnMissionStart()
+SCRIPT       : Attempting to load mission object file: Balota_AircraftTrader.map
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Aircraft at <4971.004883, 10.561255, 2436.362793> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Balota_AircraftTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Created all objects from mission object file: $CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Balota_AircraftTrader.map
+SCRIPT       : Attempting to load mission object file: Chernogorsk_Ship.map
+SCRIPT       : Attempt to create mission object Land_Ship_Big_FrontA at <7414.861328, 13.127000, 1507.505981> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Chernogorsk_Ship.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Ship_Big_FrontB at <7434.781738, 11.622542, 1509.824219> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Chernogorsk_Ship.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Ship_Big_BackA at <7468.380371, 13.039000, 1511.070190> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Chernogorsk_Ship.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Ship_Big_BackB at <7488.066895, 11.524000, 1510.459961> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Chernogorsk_Ship.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Ship_Big_Castle at <7476.670898, 21.680000, 1510.673950> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Chernogorsk_Ship.map.
+SCRIPT       :   Created
+SCRIPT       : Created all objects from mission object file: $CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Chernogorsk_Ship.map
+SCRIPT       : Attempting to load mission object file: Kamenka_BoatTrader.map
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Boats at <1756.096802, 2.316623, 2025.470215> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Created all objects from mission object file: $CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_BoatTrader.map
+SCRIPT       : Attempting to load mission object file: Kamenka_Trader.map
+SCRIPT       : Attempt to create mission object bldr_mil_fortified_nest_watchtower at <1148.053223, 7.641929, 2444.682861> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_tirepile_group at <1160.851196, 10.288115, 2423.852051> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_tirepile at <1160.983521, 10.286055, 2425.242432> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_tirepile at <1157.693848, 10.264921, 2425.535400> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_tirepile at <1159.163818, 10.282082, 2424.137451> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_tirepile at <1152.054688, 10.126895, 2436.873291> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Wreck_UH1Y at <1137.070679, 12.364465, 2432.404785> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Mil_GuardTower at <1121.993652, 11.693980, 2430.343018> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Mil_GuardTower at <1094.227539, 12.140814, 2384.411621> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Bandit at <1220.664917, 7.972228, 2406.744385> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Bandit at <1101.096924, 7.024501, 2353.733154> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth at <1187.893433, 6.756235, 2407.915283> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth at <1179.163452, 6.728580, 2406.718994> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth at <1170.606445, 6.696838, 2404.270508> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth at <1100.296753, 6.317465, 2369.686523> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth at <1108.580322, 6.371533, 2373.692627> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionGenerator at <1107.873535, 5.449383, 2398.883301> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Camp_House_brown at <1152.683105, 8.123254, 2406.673096> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Weapons at <1152.385254, 7.585029, 2404.282959> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Attachments at <1150.770020, 7.526764, 2408.176025> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Medicals at <1128.797607, 7.178465, 2441.369385> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Clothing at <1137.054810, 7.045685, 2438.563232> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Accessoires at <1136.913940, 7.024624, 2444.890137> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Components at <1113.600220, 6.551653, 2412.260498> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Vehicles at <1121.249512, 6.618543, 2414.225098> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_VehicleParts at <1124.829712, 6.660974, 2415.712891> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Exchange at <1122.124512, 16.581656, 2427.930908> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Exchange at <1124.741211, 6.718519, 2424.601563> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Special at <1143.141113, 6.997051, 2423.268311> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Consumables at <1137.184570, 7.024932, 2436.795410> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPointLight at <1121.587646, 11.632174, 2403.193359> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       : Try to process mapping object: ExpansionPointLight
+SCRIPT       : Processed mapping object: ExpansionPointLight!
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPointLight at <1123.073853, 11.632316, 2400.303467> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       : Try to process mapping object: ExpansionPointLight
+SCRIPT       : Processed mapping object: ExpansionPointLight!
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPointLight at <1131.606567, 11.628464, 2404.597412> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       : Try to process mapping object: ExpansionPointLight
+SCRIPT       : Processed mapping object: ExpansionPointLight!
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPointLight at <1130.153931, 11.633802, 2407.519775> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map.
+SCRIPT       : Try to process mapping object: ExpansionPointLight
+SCRIPT       : Processed mapping object: ExpansionPointLight!
+SCRIPT       :   Created
+SCRIPT       : Created all objects from mission object file: $CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Kamenka_Trader.map
+SCRIPT       : Attempting to load mission object file: Krasnostav_Trader.map
+SCRIPT       : Attempt to create mission object bldr_Hotel_Damaged_Airplane_Back at <11821.283203, 139.877991, 12509.501953> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Hotel_Damaged_Airplane_Wing at <11814.797852, 140.977631, 12518.284180> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_HouseB_Tenement_DayZ_airplane at <11870.707031, 115.449722, 12511.395508> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Hotel_Damaged_Airplane_Wing at <11865.816406, 140.109573, 12518.696289> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Wreck_C130J at <11840.353516, 145.184143, 12522.025391> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionWreckHmmwv at <11848.601563, 140.837082, 12494.860352> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionWreckBrdm at <11841.662109, 140.453156, 12498.174805> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_wreck_ural at <11851.839844, 141.191040, 12513.862305> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Wreck_Mi8 at <11858.057617, 141.847946, 12504.168945> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_metal_cutting_saw at <11860.090820, 141.390335, 12423.787109> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_drill at <11861.105469, 141.456421, 12423.256836> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_couch_dz at <11843.586914, 140.565109, 12477.988281> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_couch_dz at <11841.141602, 140.565109, 12479.046875> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_table_umakart at <11862.974609, 140.561264, 12422.460938> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_vise at <11862.479492, 141.063110, 12423.150391> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_pallets3 at <11863.248047, 140.178452, 12495.440430> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_pallets2 at <11861.684570, 140.416534, 12495.501953> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_pipes at <11851.351563, 140.680130, 12502.723633> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_tirepile_group at <11843.138672, 144.233002, 12505.919922> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_tirepile at <11853.266602, 144.247452, 12495.913086> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_sambucusNigra_2s at <11833.859375, 142.632950, 12505.100586> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_corylusAvellana_1f at <11837.864258, 141.108215, 12502.430664> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Misc_BoxWooden at <11882.118164, 140.581436, 12427.281250> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Misc_BoxWooden at <11882.485352, 140.581436, 12428.212891> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Misc_BoxWooden at <11882.879883, 140.581436, 12429.149414> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Misc_BoxWooden at <11883.283203, 140.581436, 12430.072266> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Misc_BoxWooden at <11883.719727, 140.581436, 12431.019531> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Misc_BoxWooden at <11883.481445, 141.550995, 12430.479492> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Misc_BoxWooden at <11883.076172, 141.554779, 12429.516602> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Misc_BoxWooden at <11882.358398, 141.554779, 12427.971680> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_wreck_s120_red at <11858.940430, 140.557007, 12485.108398> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_wreck_t72_chassis at <11814.546875, 140.868027, 12489.348633> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_flowers_01 at <11839.948242, 140.565109, 12479.551758> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_school_map at <11863.350586, 142.231186, 12469.827148> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_flowers_01 at <11859.475586, 140.565109, 12463.597656> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_flowers_02 at <11861.625977, 140.565109, 12462.970703> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_fluor_lamp at <11841.043945, 144.415344, 12475.196289> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_fluor_lamp at <11838.380859, 144.415344, 12468.648438> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPointLight at <11838.413086, 144.367996, 12468.648438> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPointLight at <11841.191406, 144.367996, 12475.149414> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_library_a at <11840.749023, 140.565109, 12456.231445> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_lobby_chair at <11841.831055, 140.565109, 12458.485352> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_lobby_chair at <11841.896484, 140.565109, 12457.150391> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_sofa_leather_new at <11843.271484, 140.977203, 12455.490234> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_carpet_big at <11843.843750, 140.585007, 12456.983398> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_class_case_a_open at <11845.416016, 140.565109, 12454.653320> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_flowers_01 at <11845.522461, 141.715179, 12454.600586> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_sign_build_bar at <11846.468750, 143.670441, 12478.127930> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPointLight at <11866.499023, 143.365295, 12467.957031> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPointLight at <11858.018555, 143.306000, 12465.204102> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPointLight at <11844.501953, 143.309006, 12456.213867> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_flag_chernarus_wall at <11862.071289, 144.215332, 12456.456055> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Hotel_Damaged_Airplane_Back at <11919.250000, 140.000000, 12524.441406> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Hotel_Damaged_Airplane_Wing at <11909.242188, 141.209641, 12503.140625> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11883.021484, 140.743393, 12496.118164> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11901.534180, 140.743393, 12490.724609> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11908.450195, 140.802246, 12447.209961> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11910.659180, 140.743393, 12489.652344> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11912.285156, 140.743393, 12456.007813> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11867.090820, 140.743393, 12481.042969> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11871.736328, 140.743393, 12489.682617> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_T34 at <11886.537109, 140.000000, 12505.717773> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11927.242188, 140.743393, 12491.202148> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11919.784180, 140.743393, 12473.828125> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11938.875000, 140.743393, 12518.069336> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11934.978516, 140.743393, 12509.260742> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11923.437500, 140.743393, 12482.326172> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11931.183594, 140.743393, 12500.352539> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11916.090820, 140.743393, 12464.728516> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11942.726563, 140.743393, 12527.030273> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11947.624023, 140.743393, 12534.131836> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_dragonteeth_big at <11902.821289, 140.882446, 12441.203125> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_salixAlba_2sb_swamp at <11794.044922, 146.675812, 12427.129883> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_salixAlba_2sb at <11807.134766, 146.864853, 12423.136719> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_salixAlba_2s at <11811.618164, 146.665359, 12408.794922> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_sorbus_2s at <11788.261719, 148.098572, 12387.128906> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FraxinusExcelsior_2w at <11800.291016, 144.335495, 12389.426758> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_carpinus_2s at <11795.821289, 148.636856, 12381.074219> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FraxinusExcelsior_2f at <11795.137695, 149.366028, 12451.110352> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FraxinusExcelsior_2s at <11795.163086, 150.299377, 12466.602539> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FraxinusExcelsior_3s at <11814.842773, 151.810013, 12444.538086> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_malusDomestica_2s at <11807.917969, 144.525040, 12455.898438> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_quercusRobur_2sb at <11808.518555, 149.959732, 12467.631836> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_quercusRobur_3fb at <11794.138672, 152.852753, 12484.755859> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_quercusRobur_3fb at <11821.897461, 153.060760, 12438.152344> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_quercusRobur_3s at <11831.282227, 152.025009, 12443.417969> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_quercusRobur_2sb at <11837.816406, 149.743912, 12432.714844> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_quercusRobur_1s at <11841.744141, 143.421402, 12439.709961> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_pyrusCommunis_3sb at <11832.782227, 145.816833, 12422.204102> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_betulaHumilis_1s at <11829.222656, 140.975449, 12440.465820> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_betulaHumilis_1s at <11824.387695, 141.035141, 12440.929688> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_prunusSpinosa_2s at <11821.711914, 142.859665, 12447.245117> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_prunusSpinosa_2s at <11801.021484, 142.739029, 12473.457031> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_prunusSpinosa_1s at <11804.119141, 141.621201, 12469.264648> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_crataegusLaevigata_1s at <11798.786133, 141.843124, 12461.760742> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FagusSylvatica_1s at <11808.262695, 144.289902, 12480.843750> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FagusSylvatica_1fe at <11803.214844, 149.304428, 12492.312500> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_carpinus_2s at <11797.489258, 147.478424, 12502.798828> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_betulaHumilis_1s at <11870.763672, 140.845200, 12517.520508> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_prunusSpinosa_2s at <11842.383789, 142.523087, 12493.808594> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_prunusSpinosa_1s at <11843.651367, 141.376556, 12496.345703> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_betulaHumilis_1s at <11836.159180, 140.685440, 12497.301758> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_betulaHumilis_1s at <11845.401367, 140.800858, 12503.442383> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_FagusSylvatica_1f at <11861.609375, 141.127106, 12491.054688> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_FagusSylvatica_1f at <11850.329102, 141.125366, 12507.328125> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_quercusRobur_1f at <11829.398438, 141.160736, 12509.875977> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_BetulaPendula_1fb at <11826.275391, 142.330933, 12535.792969> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_BetulaPendula_1s at <11831.318359, 143.710663, 12535.673828> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_BetulaPendula_1f at <11826.187500, 141.037277, 12539.701172> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_quercusRobur_1f at <11850.396484, 141.176224, 12528.366211> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_corylusAvellana_1f at <11853.684570, 141.184586, 12519.484375> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_3f at <11898.418945, 153.688995, 12404.638672> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_2s at <11892.995117, 148.571091, 12407.363281> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_2s at <11910.945313, 149.173035, 12405.319336> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_2sb at <11901.181641, 149.182358, 12411.728516> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_1sb at <11898.833984, 143.152695, 12399.106445> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_1sb at <11904.886719, 143.126938, 12407.154297> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_1s at <11898.586914, 143.035507, 12406.607422> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_1s at <11894.102539, 142.567886, 12414.170898> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_1s at <11914.250977, 143.324493, 12408.267578> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_1s at <11912.129883, 143.420456, 12397.526367> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_1f at <11909.558594, 145.175415, 12412.983398> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_1f at <11905.800781, 145.277237, 12400.262695> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_PiceaAbies_1f at <11898.842773, 141.799454, 12415.670898> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_PiceaAbies_1f at <11901.647461, 142.231903, 12403.534180> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_PiceaAbies_1f at <11915.578125, 142.397583, 12401.451172> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_PiceaAbies_1fb at <11899.560547, 142.170990, 12404.540039> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_PiceaAbies_1fb at <11906.735352, 142.072998, 12417.216797> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FagusSylvatica_2s at <11911.814453, 148.964523, 12424.027344> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FagusSylvatica_1s at <11903.352539, 144.764465, 12429.333008> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FagusSylvatica_1fe at <11910.856445, 150.059036, 12432.854492> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FagusSylvatica_3f at <11920.995117, 154.499573, 12429.690430> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FagusSylvatica_3fb at <11916.687500, 153.269775, 12437.058594> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FagusSylvatica_3fb_test at <11924.698242, 154.420578, 12419.179688> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FagusSylvatica_3s at <11923.919922, 152.380554, 12439.725586> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FraxinusExcelsior_2s at <11938.545898, 151.043289, 12439.840820> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_piceaabies_3d at <11917.488281, 151.980255, 12412.297852> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_prunusDomestica_2s at <11923.763672, 145.097549, 12458.087891> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_pyrusCommunis_3s at <11932.711914, 146.277573, 12455.672852> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_pyrusCommunis_3sb at <11927.533203, 145.635468, 12468.254883> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_quercusRobur_2sc at <11917.847656, 149.258362, 12449.307617> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_quercusRobur_2sb at <11934.368164, 149.669998, 12489.323242> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_quercusRobur_2d at <11941.510742, 150.899612, 12510.173828> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_sambucusNigra_2s at <11934.051758, 142.696808, 12497.137695> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_prunusSpinosa_1s at <11946.092773, 141.471634, 12510.407227> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_prunusSpinosa_2s at <11942.380859, 142.648590, 12516.492188> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_prunusSpinosa_2s at <11937.584961, 142.648590, 12467.541016> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_prunusSpinosa_1s at <11935.508789, 141.471634, 12459.019531> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_prunusSpinosa_1s at <11933.739258, 141.471634, 12464.821289> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_prunusSpinosa_1s at <11934.635742, 141.471634, 12467.223633> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_crataegusLaevigata_1s at <11934.079102, 141.782379, 12450.688477> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_crataegusLaevigata_2s at <11925.443359, 143.475922, 12445.117188> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_betulaHumilis_1s at <11927.501953, 142.159973, 12431.492188> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_prunusSpinosa_1s at <11918.673828, 142.516037, 12432.044922> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_prunusSpinosa_2s at <11929.312500, 144.313629, 12424.286133> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_quercusRobur_1f at <11932.584961, 142.844055, 12426.956055> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_quercusRobur_1f at <11920.727539, 141.923126, 12436.848633> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_quercusRobur_1f at <11943.458008, 141.176224, 12450.344727> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_quercusRobur_1f at <11933.160156, 141.473251, 12442.774414> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_FagusSylvatica_1f at <11918.907227, 142.586472, 12426.095703> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_FagusSylvatica_1f at <11921.402344, 142.711426, 12422.630859> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_FagusSylvatica_1fb at <11916.008789, 143.031830, 12440.770508> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_pyrusCommunis_3sb at <11905.932617, 146.049530, 12436.264648> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_quercusRobur_1f at <11913.372070, 146.525406, 12432.781250> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_quercusRobur_1fb at <11924.350586, 143.633041, 12432.828125> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_quercusRobur_1s at <11920.103516, 145.056946, 12419.369141> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_quercusRobur_1s at <11927.819336, 145.178070, 12411.875977> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_robiniaPseudoacacia_1f at <11930.370117, 143.856491, 12432.987305> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_robiniaPseudoacacia_2s at <11925.602539, 151.442108, 12402.286133> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_1f at <11857.052734, 143.590546, 12515.617188> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_1s at <11853.288086, 141.652145, 12508.661133> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_t_PiceaAbies_1sb at <11859.642578, 141.554916, 12512.250977> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_PiceaAbies_1f at <11861.218750, 140.654678, 12515.611328> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_b_PiceaAbies_1fb at <11855.519531, 140.687622, 12506.745117> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_c_Pines at <11855.062500, 140.574829, 12509.872070> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_plnt_c_Pines at <11857.843750, 140.574829, 12518.508789> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Wreck_Mi8 at <11862.875977, 147.213348, 12470.652344> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_FuelStation_Feed at <11867.583984, 140.858673, 12474.337891> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_FuelStation_Feed at <11869.331055, 140.858673, 12477.986328> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_FuelStation_Feed at <11871.063477, 140.858673, 12481.530273> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_FuelStation_Feed at <11872.946289, 140.858673, 12485.351563> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_tent_table at <11834.299805, 140.965286, 12468.700195> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Weapons at <11832.940430, 141.590408, 12469.201172> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_tent_table at <11836.500000, 140.965286, 12474.500000> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPropShelf4 at <11834.799805, 141.715179, 12471.400391> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Attachments at <11835.717773, 141.631790, 12475.681641> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Components at <11848.799805, 141.631424, 12464.492188> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Consumables at <11856.441406, 141.775543, 12459.593750> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Exchange at <11857.545898, 141.580078, 12462.494141> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Clothing at <11852.997070, 141.591522, 12464.431641> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Accessoires at <11853.641602, 141.631424, 12471.952148> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Wreck_Uaz at <11880.741211, 140.937973, 12438.102539> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_workbench at <11885.700195, 140.094788, 12435.700195> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Vehicles at <11880.900391, 141.161102, 12441.992188> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Vehicles at <11880.900391, 141.083389, 12444.694336> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Special at <11838.504883, 141.556427, 12459.812500> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_VehicleParts at <11878.492188, 141.161102, 12422.185547> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Medicals at <11851.575195, 141.631424, 12461.244141> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPropFlagExpansion at <11873.599609, 147.795258, 12444.499023> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Mosin9130 at <11835.215820, 141.800003, 12471.740234> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_AmmoBox_762x39_20Rnd at <11833.750977, 141.415161, 12468.086914> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_AmmoBox_762x39_20Rnd at <11833.862305, 141.384995, 12468.087891> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_LAW at <11833.676758, 140.915131, 12470.325195> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Ammo_762x39 at <11833.818359, 141.365158, 12468.004883> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_UMP45 at <11834.685547, 141.384995, 12469.123047> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Ammo_LAW_HE at <11834.291016, 141.265152, 12470.873047> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Ammo_LAW_HE at <11834.588867, 141.320007, 12470.832031> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Mp133Shotgun at <11834.260742, 141.384995, 12468.364258> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_AmmoBox_12Ga_10Rnd at <11834.502930, 141.384995, 12468.321289> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       : Attempt to create mission object bldr_Ammo_12GaBuck at <11834.406250, 141.380005, 12468.244141> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_ReflexOptic at <11836.450195, 141.384995, 12473.540039> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Mag_CMAG_30Rnd at <11836.445313, 141.384995, 12473.635742> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_tent_table at <11848.799805, 140.965286, 12466.599609> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_backpack_alice_black at <11853.900391, 139.922531, 12471.500000> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_expansion_safe2 at <11857.099609, 141.815186, 12463.700195> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_backpack_leathersack_black at <11858.599609, 140.568161, 12462.200195> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_backpack_leathersack_natural at <11858.400391, 140.567108, 12462.400391> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_expansion_goldbar at <11857.125977, 141.865204, 12464.078125> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_expansion_goldbar at <11857.137695, 141.865204, 12464.162109> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_expansion_goldbar at <11857.255859, 141.865204, 12464.089844> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_backpack_alice_green at <11853.813477, 140.965134, 12471.505859> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPropAirtank at <11848.003906, 140.915131, 12463.724609> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPropPropaneTorch at <11848.354492, 140.817078, 12463.823242> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_megaphone at <11848.916992, 141.324234, 12467.308594> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Airfield_Hangar_Green at <12172.036133, 146.454742, 12688.547852> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Aircraft at <12153.240234, 141.066315, 12673.345703> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Fireplace at <11849.658203, 140.615112, 12464.140625> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       : Try to process mapping object: Fireplace
+SCRIPT    (E): ScriptCallQueue::Call: Incompatible parameter '0', expected 'bool', got 'void'
+SCRIPT       : Processed mapping object: Fireplace!
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_fire_barrel at <11866.860352, 140.065948, 12464.483398> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       : Try to process mapping object: BarrelHoles_Red
+SCRIPT    (E): ScriptCallQueue::Call: Incompatible parameter '0', expected 'bool', got 'void'
+SCRIPT       : Processed mapping object: BarrelHoles_Red!
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Roadblock_WoodenCrate at <11838.799805, 140.863281, 12479.499023> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Roadblock_WoodenCrate at <11837.700195, 140.863281, 12478.999023> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Roadblock_WoodenCrate at <11838.100586, 141.489639, 12478.999023> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_box_c at <11857.204102, 140.865112, 12459.771484> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_scale at <11855.899414, 141.701218, 12462.667969> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Tomato at <11855.714844, 141.498001, 12462.639648> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Tomato at <11855.656250, 141.498001, 12462.723633> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Tomato at <11855.750000, 141.498001, 12462.740234> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_WaterBottle at <11858.005859, 141.520004, 12461.263672> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_SodaCan_Spite at <11858.033203, 141.449005, 12461.103516> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_SodaCan_Cola at <11858.102539, 141.449005, 12461.083008> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_SodaCan_Cola at <11858.052734, 141.449005, 12461.182617> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Rice at <11857.310547, 141.215134, 12459.786133> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Rice at <11857.210938, 141.257996, 12459.736328> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Pot at <11857.727539, 141.415146, 12460.265625> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Misc_Well_Pump_Yellow at <11829.297852, 140.466110, 12490.924805> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_bucket at <11829.224609, 139.750626, 12490.110352> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_expansion_code_lock at <11848.354492, 141.375000, 12465.939453> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_expansion_sea_chest at <11848.708984, 140.565094, 12466.132813> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_expansion_silvernugget at <11857.104492, 141.445145, 12463.506836> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_expansion_goldnugget at <11857.064453, 141.436340, 12463.609375> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_expansion_safe2 at <11836.704102, 140.565094, 12475.154297> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_SpawnZone at <11900.174805, 141.066315, 12487.914063> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_SpawnZone at <11870.241211, 141.068817, 12449.225586> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_SpawnZone at <11910.260742, 141.066971, 12456.944336> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map.
+SCRIPT       :   Created
+SCRIPT       : Created all objects from mission object file: $CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Krasnostav_Trader.map
+SCRIPT       : Attempting to load mission object file: Svetlojarsk_BoatTrader.map
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Boats at <14357.205078, 4.374650, 13234.102539> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionSign_Trader_Boats at <14357.299805, 4.356313, 13234.219727> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_bucket at <14357.044922, 3.282858, 13233.753906> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_wall_forfieldfen_end at <14353.371094, 3.991698, 13227.736328> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_wall_forfieldfen_end at <14357.492188, 4.017182, 13234.122070> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_fire_barrel at <14351.506836, 3.297639, 13229.893555> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       : Try to process mapping object: BarrelHoles_Red
+SCRIPT    (E): ScriptCallQueue::Call: Incompatible parameter '0', expected 'bool', got 'void'
+SCRIPT       : Processed mapping object: BarrelHoles_Red!
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Garage_Row_Big at <14368.007813, 6.858643, 13221.947266> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       : Try to process mapping object: Land_Garage_Row_Big
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Garage_Office at <14375.051758, 6.830133, 13236.816406> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Boat_Small4 at <14372.931641, 2.626984, 13187.345703> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Boat_Small6 at <14374.553711, 3.206738, 13174.283203> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_boardspack1 at <14356.598633, 4.340262, 13205.674805> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_boardspack2 at <14356.659180, 6.060000, 13205.678711> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_boardspack2 at <14358.945313, 4.046898, 13209.117188> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_boardspack1 at <14359.896484, 4.340000, 13210.396484> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_pallet at <14357.458984, 3.434368, 13211.843750> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_pallet at <14356.444336, 3.429623, 13210.492188> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Misc_BoxWooden at <14357.420898, 4.010000, 13211.869141> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_pallet at <14356.976563, 4.029387, 13212.369141> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_boardspack2 at <14355.028320, 4.040234, 13202.269531> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_boardspack1 at <14356.479492, 4.340254, 13201.340820> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_boardspack3 at <14351.973633, 4.030000, 13204.269531> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_pallets2 at <14352.200195, 3.746952, 13206.102539> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Misc_Scaffolding at <14377.366211, 5.977747, 13241.361328> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Slum_House4 at <14358.587891, 4.271383, 13183.624023> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_coil at <14365.831055, 4.376205, 13205.045898> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_misc_gcontainer_big at <14362.083984, 4.051133, 13206.320313> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_tank_small_rusty at <14373.714844, 4.629786, 13215.415039> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Rubble_Metal3 at <14363.770508, 3.021046, 13191.760742> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Rubble_Wood2 at <14365.462891, 2.851102, 13200.492188> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_ship_medium_front at <14469.564453, 4.815156, 13256.088867> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_ship_medium_back at <14506.834961, 4.793446, 13207.291992> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object Land_Camp_House_red at <14381.998047, 5.017305, 13277.500977> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Misc_Table_Market at <14376.749023, 3.801845, 13272.011719> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Misc_Table_Market at <14378.759766, 3.801845, 13270.686523> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_scale at <14379.315430, 4.747000, 13270.362305> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPropTackleBox1 at <14377.513672, 4.395000, 13271.434570> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPropTackleBox2 at <14377.066406, 4.375000, 13271.782227> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object ExpansionPropTackleBox2 at <14376.666016, 4.375000, 13272.146484> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Misc_WoodenCrate_5x at <14377.603516, 4.287961, 13275.048828> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Misc_WoodenCrate_3x at <14376.916992, 3.997873, 13277.702148> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission object bldr_Forest_HumanSkeleton at <14376.695313, 3.071445, 13278.120117> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map.
+SCRIPT       :   Created
+SCRIPT       : Created all objects from mission object file: $CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\objects\Svetlojarsk_BoatTrader.map
+SCRIPT       : Attempting to load mission trader file: Traders.map
+SCRIPT       : Attempt to create mission trader ExpansionTraderFrancis at <11835.901367, 140.617874, 12474.744141> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderLinda at <11856.716797, 140.565109, 12461.438477> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderCyril at <11855.000000, 140.605103, 12466.099609> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderGuo at <11855.200195, 140.605103, 12470.487305> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderKaito at <11849.400391, 140.605087, 12466.200195> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderBoris at <11858.202148, 140.615112, 12463.234375> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderKeiko at <11853.218750, 140.605087, 12463.277344> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderGabi at <11833.200195, 140.605118, 12461.700195> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderElias at <11877.799805, 140.134796, 12441.599609> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderHassan at <11878.674805, 140.134796, 12424.302734> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderDenis at <11833.576172, 140.605072, 12469.492188> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderIrena at <12160.279297, 140.580765, 12689.783203> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderJose at <14353.624023, 3.326771, 13229.217773> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderFrancis at <1153.964844, 6.463035, 2409.763184> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderKaito at <1117.021240, 5.495151, 2413.766357> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderCyril at <1136.987427, 5.908522, 2439.662598> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderGuo at <1133.974854, 5.909700, 2442.412598> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderBoris at <1123.468262, 15.349299, 2426.316162> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderLinda at <1135.892822, 5.908773, 2436.856689> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderKeiko at <1130.731689, 5.951744, 2438.009277> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderHelga at <1141.654419, 5.906255, 2421.591309> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderFrida at <1120.135132, 5.600746, 2417.465820> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderHassan at <1123.977905, 5.639271, 2417.411865> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderDenis at <1156.719727, 6.513331, 2406.355225> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderLewis at <1756.656372, 1.415564, 2027.359741> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Attempt to create mission trader ExpansionTraderJudy at <4973.928711, 9.510984, 2436.782959> from file:$CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map.
+SCRIPT       :   Created
+SCRIPT       : Created all traders from mission trader file: $CurrentDir:\missions\ExpansionCOM.DeerIsle\expansion\traders\Traders.map
+SCRIPT       : Chernarus::Weather::Overcast:: ( 8.50008 )  overcast: 0
+SCRIPT       : Chernarus::Weather::Overcast::Rain:: ( 8.50008 ) 0
+SCRIPT       : Chernarus::Weather::Fog:: ( 8.50008 ) 0
+SCRIPT       : Chernarus::Weather::Rain::ForceEnd:: ( 8.50008 ) 0 -> 0
+SCRIPT       : Loading Inc: 1
+SCRIPT    (E): NULL pointer to instance
+Class:      'LoadingScreen'
+Function: 'Show'
+Stack trace:
+deerisle/scripts/3_Game/Що?з..c:38
+scripts/3_Game/dayzgame.c:357
+scripts/3_Game/dayzgame.c:1520
+scripts/3_Game/dayzgame.c:1185
+SCRIPT       : COM_ModuleManager::OnMissionLoaded()
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderFrancis'
+Entity id:1548050
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderLinda'
+Entity id:1548061
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderCyril'
+Entity id:1548072
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderGuo'
+Entity id:1548083
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderKaito'
+Entity id:1548094
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderBoris'
+Entity id:1548105
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderKeiko'
+Entity id:1548116
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderGabi'
+Entity id:1548127
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderElias'
+Entity id:1548138
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderHassan'
+Entity id:1548149
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderDenis'
+Entity id:1548160
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderIrena'
+Entity id:1548171
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderJose'
+Entity id:1548182
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderFrancis'
+Entity id:1548193
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderKaito'
+Entity id:1548204
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderCyril'
+Entity id:1548215
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderGuo'
+Entity id:1548226
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderBoris'
+Entity id:1548235
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderLinda'
+Entity id:1548244
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderKeiko'
+Entity id:1548253
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderHelga'
+Entity id:1548262
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderFrida'
+Entity id:1548271
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderHassan'
+Entity id:1548280
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderDenis'
+Entity id:1548289
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderLewis'
+Entity id:1548298
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionTraderJudy'
+Entity id:1548307
+
+Function: 'OnServerInit'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:206
+DayZExpansion/Scripts/4_World/dayzexpansion\creatures\traders\expansiontraderbase.c:160
+scripts/3_Game/dayzgame.c:2366
+SCRIPT       : COM_ModuleManager::OnMissionFinish()
+SCRIPT       : OnMissionFinish
+SCRIPT       : CommunityOfflineClient::~CommunityOfflineClient()
+SCRIPT       : COM_ModuleManager::~COM_ModuleManager()
+SCRIPT       : ~DayZGame()
+SCRIPT    (E): NULL pointer to instance
+Class:      'Broom'
+Entity id:1549010
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Broom'
+Entity id:1549558
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Broom'
+Entity id:1549976
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Broom'
+Entity id:1550344
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Broom'
+Entity id:1551395
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Broom'
+Entity id:1551590
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Broom'
+Entity id:1552425
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Broom'
+Entity id:1553510
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Broom'
+Entity id:1560769
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Broom'
+Entity id:1561526
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Broom'
+Entity id:1562411
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Broom'
+Entity id:1565099
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548304
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548305
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548306
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548299
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'AviatorGlasses'
+Entity id:1547688
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'MilitaryBeret_UN'
+Entity id:1547689
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'M65Jacket_Black'
+Entity id:1547690
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Hammer'
+Entity id:1547697
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionStairKit'
+Entity id:1547699
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Rope'
+Entity id:1548318
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionStairKit'
+Entity id:1547700
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Rope'
+Entity id:1548319
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionStairKit'
+Entity id:1547701
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Rope'
+Entity id:1548320
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionFloorKit'
+Entity id:1547702
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Rope'
+Entity id:1548321
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionFloorKit'
+Entity id:1547703
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Rope'
+Entity id:1548322
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1547691
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HunterPants_Autumn'
+Entity id:1547692
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'MilitaryBoots_Black'
+Entity id:1547693
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionParachuteBag'
+Entity id:1547694
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionParachute'
+Entity id:1547695
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionFloorKit'
+Entity id:1547704
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Rope'
+Entity id:1548323
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionWallKit'
+Entity id:1547705
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Rope'
+Entity id:1548324
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionWallKit'
+Entity id:1547706
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Rope'
+Entity id:1548325
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionWallKit'
+Entity id:1547707
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Rope'
+Entity id:1548326
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionRampKit'
+Entity id:1547708
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Rope'
+Entity id:1548327
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionRampKit'
+Entity id:1547709
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Rope'
+Entity id:1548328
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionRampKit'
+Entity id:1547710
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Rope'
+Entity id:1548329
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Shovel'
+Entity id:1547696
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Crowbar'
+Entity id:1547698
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1547683
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'ExpansionGenerator'
+Entity id:1547736
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548210
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548211
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548212
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548213
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548214
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548205
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548241
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548242
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548243
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548236
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548268
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548269
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548270
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548263
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548277
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548278
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548279
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548272
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548286
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548287
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548288
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548281
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548199
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548200
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548201
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548202
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548203
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548194
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548295
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548296
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548297
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548290
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548221
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548222
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548223
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548224
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548225
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548216
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548232
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548233
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548234
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548227
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548250
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548251
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548252
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548245
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548259
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548260
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548261
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548254
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548313
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548314
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548315
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548308
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548144
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548145
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548146
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548147
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548148
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548139
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548155
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548156
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548157
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548158
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548159
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548150
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548056
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548057
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548058
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548059
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548060
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548051
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548133
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548134
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548135
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548136
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548137
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548128
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548166
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548167
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548168
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548169
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548170
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548161
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Fireplace'
+Entity id:1547979
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'WoodenStick'
+Entity id:1557650
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Firewood'
+Entity id:1557649
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Bark_Oak'
+Entity id:1565641
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BarrelHoles_Red'
+Entity id:1547981
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'WoodenStick'
+Entity id:1557657
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Firewood'
+Entity id:1557656
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Bark_Oak'
+Entity id:1565645
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548067
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548068
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548069
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548070
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548071
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548062
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548078
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548079
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548080
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548081
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548082
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548073
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548089
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548090
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548091
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548092
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548093
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548084
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548100
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548101
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548102
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548103
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548104
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548095
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548111
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548112
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548113
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548114
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548115
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548106
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548122
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548123
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548124
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548125
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548126
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548117
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548177
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548178
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548179
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548180
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548181
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548172
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BallisticHelmet_Black'
+Entity id:1548188
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaEJacket_Flat'
+Entity id:1548189
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'GorkaPants_Flat'
+Entity id:1548190
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'HikingBoots_Black'
+Entity id:1548191
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'TacticalGloves_Black'
+Entity id:1548192
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Head_Default'
+Entity id:1548183
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'BarrelHoles_Red'
+Entity id:1548013
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'WoodenStick'
+Entity id:1557662
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Firewood'
+Entity id:1557661
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61
+SCRIPT    (E): NULL pointer to instance
+Class:      'Bark_Oak'
+Entity id:1565649
+
+Function: '~ItemBase'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\itembase.c:61

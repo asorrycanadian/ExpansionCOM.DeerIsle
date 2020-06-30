@@ -1,0 +1,19 @@
+{
+    "VehicleName": "CivilianSedan",
+    "DisplayName": "",
+    "Parts": [
+        "Expansion_CivSedanHood",
+        "Expansion_CivSedanTrunk",
+        "Expansion_CivSedanDoors_Driver",
+        "Expansion_CivSedanDoors_BackRight",
+        "Expansion_CivSedanDoors_BackLeft",
+        "Expansion_CivSedanDoors_CoDriver",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

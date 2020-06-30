@@ -1,0 +1,9 @@
+{
+    "CanCraftVanillaBasebuilding": 0,
+    "CanRaid": 1,
+    "CanRaidSafes": 1,
+    "ExplosionTime": 60,
+    "ExplosionDamageMultiplier": 50,
+    "ProjectileDamageMultiplier": 2,
+    "TerritoryMode": 0
+}

@@ -11066,6 +11066,640 @@
 						<point pos="0.975 0.200 -2.658" range="0.5" height="1.0" flags="32"/>								
 				</container>
 		</group>
+		<group name="Land_jmc_skeleton_bloody_1" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>												
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_bloody_2" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>								
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_bloody_3" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>									
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_bloody_4" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>									
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_bloody_5" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>								
+				</container>
+		</group>
+		
+		
+		<group name="Land_jmc_skeleton_burned_1" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>												
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_burned_2" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>								
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_burned_3" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>									
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_burned_4" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>									
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_burned_5" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>								
+				</container>
+		</group>
+		
+		
+		<group name="Land_jmc_skeleton_clean_1" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>												
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_clean_2" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>								
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_clean_3" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>									
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_clean_4" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>									
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_clean_5" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>								
+				</container>
+		</group>
+
+
+		<group name="Land_jmc_skeleton_gnawed_1" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>												
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_gnawed_2" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>								
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_gnawed_3" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>									
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_gnawed_4" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>									
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_gnawed_5" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>								
+				</container>
+		</group>
+		
+		
+		<group name="Land_jmc_skeleton_old_1" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>												
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_old_2" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>								
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_old_3" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>									
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_old_4" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>									
+				</container>
+		</group>
+		<group name="Land_jmc_skeleton_old_5" lootmax="6">				
+				<usage name="Village" />								
+				<usage name="Town" />	
+				<usage name="Military" />	
+				<usage name="Hunting" />
+				<usage name="Police" />				
+				<usage name="Coast" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />		
+						<category name="food" />		
+						<category name="weapons" />										
+						<category name="explosives" />										
+						<tag name="floor" />
+						<point pos="-1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="-1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 -1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="0.000 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 1.500" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 0.000" range="1.0" height="1.0" flags="32"/>						
+						<point pos="1.500 0.500 -1.500" range="1.0" height="1.0" flags="32"/>								
+				</container>
+		</group>
+		
 		<group name="Land_sara_domek_sedy" lootmax="3">				
 				<usage name="Village" />	
 				<usage name="Town" />	

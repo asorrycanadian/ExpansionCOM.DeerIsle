@@ -4,8 +4,6 @@
     "Parts": [
         "CarRadiator",
         "GlowPlug",
-        "TruckBattery",
-        "HeadlightH7",
-        "HeadlightH7"
+        "TruckBattery"
     ]
 }

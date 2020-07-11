@@ -4,6 +4,8 @@
     "Parts": [
         "ExpansionHelicopterBattery",
         "ExpansionHydraulicHoses",
-        "ExpansionIgniterPlug"
+        "ExpansionIgniterPlug",
+        "ExpansionUh1hDoor_1_1",
+        "ExpansionUh1hDoor_1_2"
     ]
 }

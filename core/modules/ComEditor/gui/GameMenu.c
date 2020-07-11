@@ -9,7 +9,7 @@ class GameMenu extends PopupMenu
 
 	protected ref map< string, string > checkBoxMap = new map< string, string >; // store widget name
 
-	string checkboxLayout = "$CurrentDir:\\Missions\\ExpansionCOM.enoch\\core\\modules\\ComEditor\\gui\\layouts\\CheckboxTemplate.layout";
+	string checkboxLayout = "$CurrentDir:\\Missions\\ExpansionCOM.Deerisle\\core\\modules\\ComEditor\\gui\\layouts\\CheckboxTemplate.layout";
 
 	void GameMenu()
 	{
@@ -25,9 +25,6 @@ class GameMenu extends PopupMenu
 		m_gameScriptList = TextListboxWidget.Cast(layoutRoot.FindAnyWidget("game_list_box"));
 		m_gameScriptButton = ButtonWidget.Cast(layoutRoot.FindAnyWidget("game_script_button"));
 
-
-		m_gameScriptList.AddItem( "Spawn ScrapTank",		new Param1<string>("SpawnScrapTank"), 					0 );
-		m_gameScriptList.AddItem( "Spawn ScrapCopter",		new Param1<string>("SpawnScrapCopter"),					0 );
 		m_gameScriptList.AddItem( "Spawn Hatchback",		new Param1<string>("SpawnHatchback"),					0 );
 		m_gameScriptList.AddItem( "Spawn Gunter",			new Param1<string>("SpawnHatchback_02"),				0 );
 		m_gameScriptList.AddItem( "Spawn Sedan", 			new Param1<string>("SpawnSedan"), 	 					0 );
@@ -47,12 +44,13 @@ class GameMenu extends PopupMenu
 		m_gameScriptList.AddItem( "Spawn Bus",			 	new Param1<string>("DefaultExpansionBus"),				0 );
 		m_gameScriptList.AddItem( "Spawn ZodiacBoat",		new Param1<string>("DefaultExpansionZodiacBoat"),		0 );
 		m_gameScriptList.AddItem( "Spawn UtilityBoat",		new Param1<string>("DefaultExpansionUtilityBoat"),		0 );
-		//! m_gameScriptList.AddItem( "Spawn AmphibiaBoat",		new Param1<string>("DefaultExpansionAmphibiaBoat"),		0 );
+		//! m_gameScriptList.AddItem( "Spawn AmphibiaBoat",	new Param1<string>("DefaultExpansionAmphibiaBoat"),		0 );
 		m_gameScriptList.AddItem( "Spawn AN2",				new Param1<string>("DefaultExpansionAN2"),				0 );
-		//! m_gameScriptList.AddItem( "Spawn Su34",				new Param1<string>("DefaultExpansionSu34"),				0 );
-		m_gameScriptList.AddItem( "Spawn C130J",			new Param1<string>("DefaultExpansionC130J"),				0 );
-		//! m_gameScriptList.AddItem( "Spawn Forklift",			new Param1<string>("DefaultExpansionForklift"),			0 );
+		//! m_gameScriptList.AddItem( "Spawn Su34",			new Param1<string>("DefaultExpansionSu34"),				0 );
+		m_gameScriptList.AddItem( "Spawn C130J",			new Param1<string>("DefaultExpansionC130J"),			0 );
+		//! m_gameScriptList.AddItem( "Spawn Forklift",		new Param1<string>("DefaultExpansionForklift"),			0 );
 		m_gameScriptList.AddItem( "Spawn Tractor",			new Param1<string>("DefaultExpansionTractor"),			0 );
+		m_gameScriptList.AddItem( "Spawn Mi8",				new Param1<string>("DefaultExpansionMi8"),				0 );
 
 		CheckBoxWidget checkBoxGodmode = CheckBoxWidget.Cast(GetGame().GetWorkspace().CreateWidgets( checkboxLayout, m_checkboxPanel ));
 		checkBoxGodmode.SetName( "Godmode" );
@@ -144,27 +142,6 @@ class GameMenu extends PopupMenu
 		return false;
 	}
 
-	static CarScript SpawnScrapCopter() 
-	{
-		TStringArray attArr = {
-		"HeadlightH7", "HeadlightH7",
-		"mi8wheel_1_1", "mi8wheel_1_1", "mi8wheel_1_1", "mi8wheel_1_1",
-		"ExpansionHelicopterBattery", "ExpansionHydraulicHoses", "ExpansionIgniterPlug",
-		};
-
-		return SpawnVehicle( "ScrapCopter", attArr );
-	}
-	static CarScript SpawnScrapTank() 
-	{
-		TStringArray attArr = {
-		"HeadlightH7", "HeadlightH7", "HeadlightH7", "CarBattery", "CarRadiator", "SparkPlug",
-		"tute_Hood","tute_trunk","tuteDoors_Driver", "tuteDoors_CoDriver",
-		"tuteWheel", "tuteWheel", "tuteWheel", "tuteWheel", "tuteWheel",
-		};
-
-		return SpawnVehicle( "Scraptank", attArr );
-	
-	}
 	static CarScript SpawnHatchback() 
 	{
 		TStringArray attArr = {
@@ -272,7 +249,6 @@ class GameMenu extends PopupMenu
 		attArr.Insert("ExpansionHydraulicHoses");
 		attArr.Insert("ExpansionIgniterPlug");
 		attArr.Insert("HeadlightH7");
-		attArr.Insert("HeadlightH7");
 
 		attArr.Insert("ExpansionMerlinFrontWheel");
 		attArr.Insert("ExpansionMerlinFrontWheel");
@@ -280,6 +256,24 @@ class GameMenu extends PopupMenu
 		attArr.Insert("ExpansionMerlinBackWheel");
 
 		return SpawnVehicle( "ExpansionMerlin", attArr );
+	}
+
+	static CarScript DefaultExpansionMi8()
+	{
+		array< string> attArr = new array< string>;
+
+		attArr.Insert("ExpansionHelicopterBattery");
+		attArr.Insert("ExpansionHydraulicHoses");
+		attArr.Insert("ExpansionIgniterPlug");
+		attArr.Insert("HeadlightH7");
+		attArr.Insert("HeadlightH7");
+
+		attArr.Insert("ExpansionMi8FrontWheel");
+		attArr.Insert("ExpansionMi8FrontWheel");
+		attArr.Insert("ExpansionMi8BackWheel");
+		attArr.Insert("ExpansionMi8BackWheel");
+
+		return SpawnVehicle( "ExpansionMi8", attArr );
 
 	}
 
@@ -307,7 +301,10 @@ class GameMenu extends PopupMenu
 		attArr.Insert("ExpansionHelicopterBattery");
 		attArr.Insert("ExpansionHydraulicHoses");
 		attArr.Insert("ExpansionIgniterPlug");
+		attArr.Insert("HeadlightH7");
 
+		//attArr.Insert("ExpansionUh1hDoor_1_1");
+		//attArr.Insert("ExpansionUh1hDoor_1_2");
 		return SpawnVehicle( "ExpansionUh1h", attArr );
 	}
 

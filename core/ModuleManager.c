@@ -1,9 +1,9 @@
-#include "$CurrentDir:missions\\ExpansionCOM.DeerIsle\\core\\Module.c"
-#include "$CurrentDir:missions\\ExpansionCOM.DeerIsle\\core\\KeyMouseBinding.c"
+#include "$CurrentDir:missions\\ExpansionCOM.Deerisle\\core\\Module.c"
+#include "$CurrentDir:missions\\ExpansionCOM.Deerisle\\core\\KeyMouseBinding.c"
 
-#include "$CurrentDir:missions\\ExpansionCOM.DeerIsle\\core\\modules\\ComEditor\\module.c"
-#include "$CurrentDir:missions\\ExpansionCOM.DeerIsle\\core\\modules\\ComKeyBinds\\module.c"
-#include "$CurrentDir:missions\\ExpansionCOM.DeerIsle\\core\\modules\\DebugMonitor\\module.c"
+#include "$CurrentDir:missions\\ExpansionCOM.Deerisle\\core\\modules\\ComEditor\\module.c"
+#include "$CurrentDir:missions\\ExpansionCOM.Deerisle\\core\\modules\\ComKeyBinds\\module.c"
+#include "$CurrentDir:missions\\ExpansionCOM.Deerisle\\core\\modules\\DebugMonitor\\module.c"
 
 class COM_KeyMouseActionType
 {

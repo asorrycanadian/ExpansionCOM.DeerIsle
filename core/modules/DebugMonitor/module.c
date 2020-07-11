@@ -1,2 +1,2 @@
-#include "$CurrentDir:missions\\ExpansionCOM.DeerIsle\\core\\modules\\DebugMonitor\\CustomDebugMonitor.c"
-#include "$CurrentDir:missions\\ExpansionCOM.DeerIsle\\core\\modules\\DebugMonitor\\gui\\DebugMonitor.c"
+#include "$CurrentDir:missions\\ExpansionCOM.Deerisle\\core\\modules\\DebugMonitor\\CustomDebugMonitor.c"
+#include "$CurrentDir:missions\\ExpansionCOM.Deerisle\\core\\modules\\DebugMonitor\\gui\\DebugMonitor.c"
